@@ -1,6 +1,6 @@
 # Olá, eu sou o Daniel Maciel Gaio! 👋
 
-Atualmente, estou no **1º semestre** de **Análise e Desenvolvimento de Sistemas** na **Fasul**. Sou um entusiasta da tecnologia e estou construindo minha base para me tornar um profissional versátil.
+Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas** na **Fasul**. Sou um entusiasta da tecnologia e estou construindo minha base para me tornar um profissional versátil.
 
 ### 🎯 Meu foco atual
 Como estou no início da minha jornada acadêmica, estou me dedicando a aprender os fundamentos da programação e a explorar as áreas que mais me despertam curiosidade:
